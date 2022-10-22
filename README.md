@@ -6,7 +6,7 @@ Espero que possa contar com a vossa opinião, será sempre bem vinda : )
 
 Cumprimentos.
 
-########################################################### // ###########################################################
+########################################################### ###########################################################
 
 A very simple project! 
 I enjoyed doing this challenge, as it made me think further and come up with a genius idea for a future project that I intend to do. 
